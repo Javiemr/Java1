@@ -1,7 +1,7 @@
 /**
  * Ejercicio4
  *
- *    Escribe un programa que muestre tu horario de clase.
+ * Escribe un programa que muestre tu horario de clase.
  *
  * @author Javier Moreno Rodríguez
  */
